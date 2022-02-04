@@ -20,12 +20,15 @@ Features of this project : <br>
 3.Route securing is done using jwt and cookies<br>
 <br>
 <br>
+Before starting,you need : <br>
+1.MongoDb Compass<br>
+2.node.js<br>
 <h1>How to run this project in localhost </h1><br>
 Step 1: Download this project<br>
 Step 2: Run  " npm install " in the terminal<br>
 Step 3: Run " npm run dev " to run with nodemon or "npm run start" to start with node<br>
 Step 4: Go to localhost:4000<br>
-<br>
-<br>
-<h2>You can see the live website here</h2><br>
-https://sigin-register-auth.herokuapp.com/
+<!-- <br>
+<br> -->
+<!-- <h2>You can see the live website here</h2><br> -->
+<!-- https://sigin-register-auth.herokuapp.com/ -->
