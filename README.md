@@ -23,6 +23,7 @@ Features of this project : <br>
 Before starting,you need : <br>
 1.MongoDb Compass<br>
 2.node.js<br>
+3.Connect your mongodb with it by creating a .env file and creating a DB_URI with a value equal to your database link.<br> 
 <h1>How to run this project in localhost </h1><br>
 Step 1: Download this project<br>
 Step 2: Run  " npm install " in the terminal<br>
